@@ -32,7 +32,7 @@ struct ContentView: View {
                 }
                 
             } label: {
-                Text("OM NOM NOM")
+                Text("OM NOM777777 NOM")
                 /*
                  .buttonStyle(.borderedProminent)
                  .tint(.cyan)
