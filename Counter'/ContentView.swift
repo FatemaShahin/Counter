@@ -60,7 +60,7 @@ struct ContentView: View {
                 message = ""
                 cupcakesRemaining = 10
             } label: {
-                Text("Reset")
+                Text("Reset9")
                 /*
                  .buttonStyle(.borderedProminent)
                  .tint(.cyan)
