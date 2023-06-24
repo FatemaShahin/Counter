@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @AppStorage ("Counter") var counter = 0
+    @AppStorage ("Counter") var counter = 10
     @AppStorage ("remaining") var cupcakesRemaining = 15
     @AppStorage ("message")private var message = ""
     
