@@ -66,7 +66,7 @@ struct ContentView: View {
                  .tint(.cyan)
                  */
                     .padding()
-                    .background(.red)
+                    .background(.pink)
                     .foregroundColor(.white)
                     .cornerRadius(10)
                     .shadow(color: .black.opacity(0.3), radius: 10)
